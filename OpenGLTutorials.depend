@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1622426908 source:/home/wuser/Documentos/proyectos/OpenGLTutorials/main.cpp
+	<iostream>
+	"display.h"
+	<GL/glew.h>
+	"shader.h"
+
+1622346622 /home/wuser/Documentos/proyectos/OpenGLTutorials/display.h
+	<SDL2/SDL.h>
+	<string>
+
+1622346627 source:/home/wuser/Documentos/proyectos/OpenGLTutorials/display.cpp
+	"display.h"
+	<GL/glew.h>
+	<iostream>
+
+1622391282 /home/wuser/Documentos/proyectos/OpenGLTutorials/shader.h
+	<string>
+	<GL/glew.h>
+
+1622427600 source:/home/wuser/Documentos/proyectos/OpenGLTutorials/shader.cpp
+	"shader.h"
+	<fstream>
+	<iostream>
+
